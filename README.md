@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Asri Nurul
-[Linkin](https://www.linkedin.com/in/asri-nurul-ma-rifah-38899b196/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/asrinurulm04/asrinurulm04)
 
 <!--
 **asrinurulm04/asrinurulm04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
