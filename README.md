@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Asri Nurul
+[Linkin](https://www.linkedin.com/in/asri-nurul-ma-rifah-38899b196/)
 
 <!--
 **asrinurulm04/asrinurulm04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Fullstack Web Developer
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
