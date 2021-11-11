@@ -2,6 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-asrimarifah0402@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:asrimarifah0402@gmail.com)](mailto:asrimarifah0402@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/asri-nurul-ma-rifah-38899b196?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asri-nurul-ma-rifah-38899b196/)](https://www.linkedin.com/in/asri-nurul-ma-rifah-38899b196/) 
 [![Gitlab Badge](https://img.shields.io/badge/-asrinurulm-grey?style=flat&logo=github&logoColor=white&link=https://gitlab.nutrifood.co.id/asrinurulm/)](https://gitlab.nutrifood.co.id/asrinurulm/) 
+[![Github Badge](https://img.shields.io/badge/-asrinurulm04-grey?style=flat&logo=github&logoColor=white&link=https://github.com/asrinurulm04/asrinurulm04/)](https://github.com/asrinurulm04/asrinurulm04/) 
 <p align='left'>Hi I’m Asri. I’m Software engineer. I’m interested to develop any software application especially Web application. I love to learn new things and eager to have new experiences.</p><p align='left'> You can view my resume <a href='https://drive.google.com/drive/folders/1jb4SHU1nI-7V3G-UsfKSwjuIC75PdG4-?usp=sharing ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=asrinurulm04 alt=asrinurulm04 /> </p>
