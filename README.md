@@ -7,6 +7,4 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=asrinurulm04&show_icons=true&theme=radical)](https://github.com/asrinurulm04/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrinurulm04&layout=compact)](https://github.com/asrinurulm04/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/asrinurulm04/github-readme-stats)
-
 
